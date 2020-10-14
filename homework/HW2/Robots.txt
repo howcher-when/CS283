@@ -1,0 +1,3 @@
+1. most insteresting robot: turtlebot, robomaster robots, boston dynamics robots, NAO, Shakey.
+2. Robomaster robot is coolest: Because it is made by myself; It can shot "bullet"; It can attack enemies automatically.
+3. How to realize navigation? How to run stable? How to adapt to different environment?
